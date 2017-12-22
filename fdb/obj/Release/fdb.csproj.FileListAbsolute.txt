@@ -1,0 +1,9 @@
+C:\Users\jackw\Desktop\fdb\fdb\bin\Release\fdb.exe.config
+C:\Users\jackw\Desktop\fdb\fdb\bin\Release\fdb.exe
+C:\Users\jackw\Desktop\fdb\fdb\bin\Release\fdb.pdb
+C:\Users\jackw\Desktop\fdb\fdb\bin\Release\SimpleInjector.dll
+C:\Users\jackw\Desktop\fdb\fdb\bin\Release\SimpleInjector.xml
+C:\Users\jackw\Desktop\fdb\fdb\obj\Release\fdb.csprojResolveAssemblyReference.cache
+C:\Users\jackw\Desktop\fdb\fdb\obj\Release\fdb.csproj.CoreCompileInputs.cache
+C:\Users\jackw\Desktop\fdb\fdb\obj\Release\fdb.exe
+C:\Users\jackw\Desktop\fdb\fdb\obj\Release\fdb.pdb
